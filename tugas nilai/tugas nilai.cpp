@@ -23,5 +23,5 @@ int main()
 		status = "gagal";
 	}
 	cout << "Rerata = " << rerata << endl;
-	cout << "Status Kelulusan = " << status << endl;
+	cout << "Status kelulusan = " << status << endl;
 }
